@@ -1,6 +1,6 @@
 # handsome-dark-syntax
 
-A beautiful syntax theme that helps one focus on the important and avoid being distracted by multitudes of styles and colors.
+A syntax theme for Atom that helps one focus on the important and avoid being distracted by multitudes of styles and colors.
 
 ## Screenshot
 
