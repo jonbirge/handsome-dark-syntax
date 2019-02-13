@@ -1,4 +1,5 @@
-A beautiful syntax theme that helps focus on the important and avoids being distracted by multitudes of styles and (signal) colors.
+A beautiful syntax theme that helps one focus on the important and avoid
+being distracted by multitudes of styles and colors.
 
 ## Principles
 
