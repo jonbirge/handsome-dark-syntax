@@ -4,7 +4,7 @@ A syntax theme for Atom that helps one focus on the important and avoid being di
 
 ## Screenshot
 
-<p><img src="https://github.com/jonbirge/handsome-dark-syntax/raw/master/screenshot.png" alt="Screenshot"></p>
+![Screenshot](./examples/screenshot.png)
 
 ## Principles
 
