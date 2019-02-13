@@ -1,4 +1,10 @@
+# handsome-dark-syntax
+
 A beautiful syntax theme that helps one focus on the important and avoid being distracted by multitudes of styles and colors.
+
+## Screenshot
+
+<p><img src="https://github.com/jonbirge/handsome-dark-syntax/raw/master/screenshot.png" alt="Screenshot"></p>
 
 ## Principles
 
