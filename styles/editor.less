@@ -2,6 +2,18 @@ atom-text-editor {
   background-color: @syntax-background-color;
   color: @syntax-text-color;
 
+  .invisible {
+    color: @syntax-text-color;
+  }
+
+  .cursor {
+    color: @syntax-cursor-color;
+  }
+
+  .selection .region {
+    background-color: @syntax-selection-color;
+  }
+
   .wrap-guide {
     background-color: @syntax-wrap-guide-color;
   }
@@ -12,6 +24,10 @@ atom-text-editor {
 
   .invisible-character {
     color: @syntax-invisible-character-color;
+  }
+
+  .line.cursor-line {
+    background-color: lighten(@syntax-background-color, 10%);
   }
 
   .gutter {
@@ -28,24 +44,12 @@ atom-text-editor {
         color: @syntax-gutter-text-color-selected;
       }
     }
-  }
 
-  .gutter .line-number.folded,
-  .gutter .line-number:after,
-  .fold-marker:after {
-    color: @gray;
-  }
-
-  .invisible {
-    color: @syntax-text-color;
-  }
-
-  .cursor {
-    color: @syntax-cursor-color;
-  }
-
-  .selection .region {
-    background-color: @syntax-selection-color;
+    .gutter .line-number.folded,
+    .gutter .line-number:after,
+    .fold-marker:after {
+      color: @gray;
+    }
   }
 
   .bracket-matcher .region {
