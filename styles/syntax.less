@@ -85,6 +85,7 @@
   &.syntax--null,
   &.syntax--nil {
     .syntax--blue();
+    display: inline-block;
 
     .syntax--punctuation.syntax--definition {
       color: @blue-medium;
@@ -94,6 +95,8 @@
 
 .syntax--keyword {
   &.syntax--control {
+    // .syntax--blue();
     font-weight: bold;
+    display: inline-block;
   }
 }
