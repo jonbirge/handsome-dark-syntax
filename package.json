@@ -1,8 +1,8 @@
 {
   "name": "handsome-dark-syntax",
   "theme": "syntax",
-  "version": "0.3.0",
-  "description": "A dark syntax theme based on handsome-light-syntax by mgruner. What's good for the goose is good for the gander.",
+  "version": "0.4.0",
+  "description": "A dark syntax theme based on handsome-light-syntax by mgruner.",
   "keywords": [
     "reduced",
     "contrast",
