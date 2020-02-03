@@ -8,7 +8,7 @@ A syntax theme for Atom that helps one focus on the important and avoid being di
 
 ## Principles
 
-### Minimal highlighting, just 5 classes:
+### Minimal highlighting:
 
 1. Strings
 2. All statically known constants (numbers, keywords, boolean, etc)
@@ -40,9 +40,8 @@ From the command line:
 Directly in Atom:
 
 - Go to **Settings > Install**
-- Search for `handsome-light-syntax` and click **Install**
-- Go to **Settings > Themes** and choose **Handsome Light** from the dropdown menu
-- Happy coding! :heart:
+- Search for `handsome-dark-syntax` and click **Install**
+- Go to **Settings > Themes** and choose **Handsome Dark** from the dropdown menu
 
 ### Thanks
 
